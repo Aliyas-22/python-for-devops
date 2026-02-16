@@ -1,0 +1,20 @@
+title: Buy groceries
+title: Go for a walk
+title: Finish homework
+title: Read a book
+title: Pay bills
+title: Call a friend
+title: Clean the house
+title: Go to the gym
+title: Write a report
+title: Cook dinner
+title: Study for exams
+title: Do laundry
+title: Practice guitar
+title: Plan a trip
+title: Attend a meeting
+title: Water the plants
+title: Fix the car
+title: Watch a movie
+title: Visit the museum
+title: Send an email
